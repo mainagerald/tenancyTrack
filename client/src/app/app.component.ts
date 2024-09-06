@@ -9,11 +9,13 @@ import { ButtonModule } from 'primeng/button';
 import { NavbarComponent } from "./layout/navbar/navbar.component";
 import { FooterComponent } from "./layout/footer/footer.component";
 import { ToastModule } from 'primeng/toast';
+import { MessageService } from 'primeng/api';
 
 @Component({
   selector: 'app-root',
   standalone: true,
   imports: [RouterOutlet, FontAwesomeModule,ButtonModule, NavbarComponent, FooterComponent, ToastModule],
+  providers: [MessageService],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
 })
