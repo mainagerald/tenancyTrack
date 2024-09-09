@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f921ceac-1549-48a7-87ed-a5a7c72ae295" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/layout/footer/footer.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/layout/footer/footer.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/layout/navbar/category/category.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/layout/navbar/category/category.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/layout/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/layout/navbar/navbar.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/layout/navbar/navbar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/layout/navbar/navbar.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/card-listing/card-listing.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/card-listing/card-listing.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/card-listing/card-listing.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/card-listing/card-listing.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/font-awesome-icons.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/font-awesome-icons.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/footer-step/footer-step.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/footer-step/footer-step.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/footer-step/footer-step.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/footer-step/footer-step.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/app/shared/footer-step/footer-step.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/shared/footer-step/footer-step.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/scss/airbnb-fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/scss/airbnb-variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/styles.scss" afterDir="false" />
-    </list>
+    <list default="true" id="f921ceac-1549-48a7-87ed-a5a7c72ae295" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
@@ -47,7 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Flavian.Wambeti/Desktop/tenancyTrack/serverside",
+    "last_opened_file_path": "C:/Users/Flavian.Wambeti/Desktop/tenancyTrack",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
